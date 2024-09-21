@@ -13,14 +13,14 @@ padding:10px;}
 .block{width:50%;}
 .box1{background-color: pink;
   border:solid 2px #000000; 
-  text-align: center;
+  align-items: center;
 padding:20px;}
 .box2{background-color: rgb(28, 131, 131);
   padding: 20px;
   border:solid 2px #000000; 
-  text-align: center;}
+  align-items: center;}
 .box3{background-color: rgb(104, 33, 110);
   padding: 20px;
   border:solid 2px #000000; 
-  text-align: center;}
+  align-items: center;}
 .block p{font-style: italic;}
