@@ -10,17 +10,16 @@ width: 100%;
 div .flexbox {display: flexbox;}
 .flexbox > div {width:33%;
 padding:10px;}
-.block{width:50%;}
+.block{width:50%;
+color:#ffffff;
+padding:20px}
 .box1{background-color: pink;
   border:solid 2px #000000; 
-  align-items: center;
-padding:20px;}
+  align-items: center;}
 .box2{background-color: rgb(28, 131, 131);
-  padding: 20px;
   border:solid 2px #000000; 
   align-items: center;}
 .box3{background-color: rgb(104, 33, 110);
-  padding: 20px;
   border:solid 2px #000000; 
-  align-items: center;}
+  text-align: center;}
 .block p{font-style: italic;}
