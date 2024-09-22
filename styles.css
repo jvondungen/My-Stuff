@@ -12,6 +12,7 @@ div .flexbox {display: flex;}
 padding:10px;
 text-align: center;}
 .block{width:50%;
+  height:5cqh;
 color:#ffffff;
 padding:20px}
 .box1{background-color: pink;
@@ -24,3 +25,4 @@ padding:20px}
   border:solid 2px #000000; 
   text-align: center;}
 .block p{font-style: italic;}
+.flexbox-image{width:50%;}
