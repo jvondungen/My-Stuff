@@ -7,9 +7,10 @@ width: 100%;
 }
 
 
-div .flexbox {display: flexbox;}
+div .flexbox {display: flex;}
 .flexbox > div {width:33%;
-padding:10px;}
+padding:10px;
+text-align: center;}
 .block{width:50%;
 color:#ffffff;
 padding:20px}
