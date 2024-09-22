@@ -15,10 +15,10 @@ color:#ffffff;
 padding:20px}
 .box1{background-color: pink;
   border:solid 2px #000000; 
-  align-items: center;}
+  text-align: center;}
 .box2{background-color: rgb(28, 131, 131);
   border:solid 2px #000000; 
-  align-items: center;}
+  text-align: center;}
 .box3{background-color: rgb(104, 33, 110);
   border:solid 2px #000000; 
   text-align: center;}
