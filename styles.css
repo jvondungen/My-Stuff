@@ -13,8 +13,10 @@ h1{text-transform: uppercase;}
   height:200px;
   border: 4px solid black;
 }
-div .flexbox {display: flex;}
-.flexbox > div {width:50%;
+.flexbox {display: flex;}
+.flexbox img {width:100%;
+  max-width:350px;
+  height:150px;
 padding:10px;
 text-align: center;}
 .block{display:inline-block;
