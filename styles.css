@@ -8,7 +8,7 @@ width: 100%;
 
 *{box-sizing:border-box;}
 .gallery img{width:100%;
-  max-width:350px;
+  max-width:500px;
   height:300px;
 }
 div .flexbox {display: flex;}
