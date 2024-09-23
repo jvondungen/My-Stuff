@@ -1,11 +1,12 @@
-.header{background-color: #73e6e6;  
+.header{background-color: #282b2b;  
   font-family: "Lucida Sans";
+  text-align: center;
 color: #ffffff;
-border-bottom: solid 4px #000000;
-display:block;
+padding:10px;
+border-bottom: solid 4px #49cbe2;
 width: 100%;
 }
-
+h1{text-transform: uppercase;}
 *{box-sizing:border-box;}
 .gallery img{width:50%;
   max-width:300px;
