@@ -25,4 +25,5 @@ padding:20px}
   border:solid 2px #000000; 
   text-align: center;}
 .block p{font-style: italic;}
-.flexbox-image{width:50%;}
+.flexbox-image{width:50%;
+height:50px;}
