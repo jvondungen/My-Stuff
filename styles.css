@@ -15,15 +15,16 @@ h1{text-transform: uppercase;}
 .flexbox > div {display: flex;
   flex-direction: column;
 font-family: sans-serif;
-font-weight:bold;}
+font-weight:bold;
+text-align: center;}
 .flexbox img {width:100%;
   max-width:350px;
   height:150px;
 padding:10px;
-text-align: center;}
-.block p{width:50%;
+}
+.block {width:50%;
   height: 100px;
-  color:#ffffff;
+  color:#95cbeb;
 padding:20px;}
 .box1{background-color: pink;
   border:solid 2px #000000; 
